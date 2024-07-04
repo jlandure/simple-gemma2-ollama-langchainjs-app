@@ -11,8 +11,8 @@
 `npm start`
 
 There is two main files who use the *Gemma2:9b* model
-- [translate.js](./blob/main/translate.js) with a simple translation function
-- [extract.js](./blob/main/extract.js) with function calling for entities extraction in a JSON format
+- [translate.js](./translate.js) with a simple translation function
+- [extract.js](./extract.js) with function calling for entities extraction in a JSON format
 
 Note: Have to try the *Gemma2:2b* when available and you can already use the *Gemma2:27b* model.
 
