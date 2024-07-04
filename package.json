@@ -1,0 +1,15 @@
+{
+  "name": "simple-gemma-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.2.17",
+    "@langchain/google-vertexai": "^0.0.19",
+    "langchain": "^0.2.8"
+  }
+}
