@@ -1,5 +1,9 @@
 # Install JS dependencies
 
+`npm i`
+
+or 
+
 `npm i langchain @langchain/community`
 
 # Use a local LLM with Ollama in Docker
